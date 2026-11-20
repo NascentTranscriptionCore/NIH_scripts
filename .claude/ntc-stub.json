@@ -1,8 +1,0 @@
-{
-  "source": "ntc-ecosystem-context",
-  "skill": "nih-scripts",
-  "meta_sha": "006b425",
-  "generated": "2026-11-12",
-  "managed_paths": [".claude/skills/nih-scripts", ".claude/ntc-ecosystem.md", ".claude/reference/runAsPipeline-grammar.md", ".claude/ntc-coding-style.md", "REVIEW.md", ".claude/ntc-todo.md", ".claude/ntc-stub.json", "CLAUDE.md (marked block)"],
-  "repo_owned_paths": [".claude/ntc-changelog.md"]
-}
